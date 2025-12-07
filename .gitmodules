@@ -1,0 +1,6 @@
+[submodule "catatin-fe"]
+	path = catatin-fe
+	url = https://github.com/My-Kelompok/catatin-fe
+[submodule "catatin-be"]
+	path = catatin-be
+	url = https://github.com/My-Kelompok/catatin-be

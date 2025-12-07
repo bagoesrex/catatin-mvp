@@ -1,6 +1,6 @@
-# JasaKu
+# CatatIn
 
-JasaKu adalah aplikasi manajemen pemasukan untuk pemilik usaha jasa berbasis AI Chat.
+CatatIn adalah aplikasi manajemen pemasukan untuk pemilik usaha jasa berbasis AI Chat.
 
 Tujuan:
 
@@ -13,7 +13,7 @@ Target User:
 - Pemilik jasa individu
   (Servis, desain, dll)
 
-## Fitur JasaKu
+## Fitur CatatIn
 
 - Chat AI untuk mencatat pemasukan
 - Riwayat transaksi
